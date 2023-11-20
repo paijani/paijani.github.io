@@ -1,0 +1,7 @@
+---
+title: "My mock post 1"
+description: "This is created to show how to make a blog post"
+date: "11/20/23"
+categories:
+  - R code
+---

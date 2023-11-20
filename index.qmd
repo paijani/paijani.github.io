@@ -1,0 +1,13 @@
+---
+title: "Paijani Sheth"
+about: 
+  template: trestles
+  image: images/profile_pic.png
+  links: 
+    - icon: linkedin
+      href: https://www.linkedin.com/in/paijani-sheth/
+    - icon: github
+      href: https://github.com/paijani
+---
+
+I am a Masters of Public Health, Epidemiology student

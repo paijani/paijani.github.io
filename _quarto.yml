@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "paijani.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Research.qmd
+        text: Research Experience
+      - icon: linkedin
+        text: LinkedIn
+        href: https://www.linkedin.com/in/paijani-sheth/
+      - text: Blog
+        href: blog.qmd
+
+format:
+  html:
+    theme: Minty
+
+editor: visual
